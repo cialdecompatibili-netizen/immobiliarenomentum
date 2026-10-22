@@ -1,9 +1,11 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "La Villa"
-    url: /#piani
-  - title: "Blog"
-    url: /blog/
+  - title: "Immobili"
+    url: /#immobili
+  - title: "Vendi"
+    url: /#vendi
+  - title: "Mutui"
+    url: /#mutui
+  - title: "Servizi"
+    url: /#servizi
   - title: "Contatti"
     url: /contatti/
