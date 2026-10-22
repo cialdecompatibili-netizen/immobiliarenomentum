@@ -2,7 +2,7 @@ main:
   - title: "Immobili"
     url: /#immobili
   - title: "Vendi"
-    url: /#vendi
+    url: /vendi/
   - title: "Mutui"
     url: /#mutui
   - title: "Servizi"
