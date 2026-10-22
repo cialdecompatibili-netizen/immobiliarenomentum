@@ -1,4 +1,4 @@
-/* agenzia.css - stile Nomentum Immobiliare (condiviso da tutte le pagine) */
+﻿/* agenzia.css - stile Nomentum Immobiliare (condiviso da tutte le pagine) */
 
 .nm-page,#main-content{--ink:#14202e;--navy:#0f2a43;--line:#e4e6ea;--warm:#f6f5f2;--muted:#4f5865;--d:'Cormorant Garamond',Georgia,serif;--b:'Inter','Helvetica Neue',Arial,sans-serif;--ease:cubic-bezier(.16,1,.3,1);font-family:var(--b)}
 .nm-btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:.8rem 1.7rem;font-family:var(--b);font-weight:600;font-size:.95rem;letter-spacing:.04em;text-transform:uppercase;border-radius:0;text-decoration:none;border:1px solid transparent;transition:background-color .2s var(--ease),color .2s var(--ease)}
@@ -11,7 +11,7 @@
 .nm-eye{font-size:.8rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin:0 0 .9rem}
 .nm-h2{font-family:var(--d);font-weight:600;font-size:clamp(2.1rem,3.6vw,3.2rem);line-height:1.08;color:var(--ink);margin:0;text-wrap:balance}
 .nm-lead{font-size:1.08rem;line-height:1.7;color:var(--muted);max-width:52ch;margin:1.1rem 0 0}
-.nm-hero{position:relative;overflow:hidden;background:var(--navy);color:#fff;display:flex;align-items:center;min-height:min(86svh,760px)}
+.nm-hero{position:relative;overflow:hidden;background:var(--navy);color:#fff;display:flex;align-items:center;min-height:100vh;min-height:100svh}
 .nm-hero-bg,.nm-hero-bg img{position:absolute;inset:0;width:100%;height:100%;display:block}.nm-hero-bg img{object-fit:cover;object-position:50% 55%}
 .nm-hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(8,24,40,.82) 0%,rgba(8,24,40,.55) 50%,rgba(8,24,40,.15) 100%)}
 .nm-hero-in{position:relative;z-index:1;width:100%;max-width:1180px;margin:0 auto;padding:clamp(3.5rem,9vw,7rem) 1.5rem}
