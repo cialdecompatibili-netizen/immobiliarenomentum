@@ -1,8 +1,8 @@
 # guida.md - Progetto Nomentum Immobiliare (agenzia immobiliare luxury)
 
-Sito: https://cialdecompatibili-netizen.github.io/nomentumimmobiliare2/
-Repo: https://github.com/cialdecompatibili-netizen/nomentumimmobiliare2
-Cartella: Desktop\repository\nomentumimmobiliare2
+Sito: https://cialdecompatibili-netizen.github.io/immobiliarenomentum/
+Repo: https://github.com/cialdecompatibili-netizen/immobiliarenomentum
+Cartella: Desktop\repository\immobiliarenomentum
 Base: clonata da villanomentum (Jekyll + minimal-mistakes, home a blocchi in `_data/blocks_home.json`, admin in `admin/`).
 
 ## Obiettivo
